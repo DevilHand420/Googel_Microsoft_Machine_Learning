@@ -40,4 +40,4 @@ This project was made possible through the collaborative efforts of participants
 Feel free to explore the code, use it as a reference, or contribute to its development. We welcome feedback and contributions to further improve our machine learning skills and knowledge.
 
 Thank you for being a part of this collaborative learning experience!
-
+Feel free to connect with me on LinkedIn: www.linkedin.com/in/dikshant-sharma-b41539232
