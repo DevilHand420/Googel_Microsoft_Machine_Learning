@@ -1,5 +1,5 @@
 # Machine Learning Bootcamp Final Project
-## Collaborative Project by Google and Microsoft, in Collaboration with DevTown
+## Collaborative Project by Google And Microsoft, with DevTown
 
 Welcome to the Machine Learning Bootcamp Final Project repository! This project represents the culmination of our efforts during the collaborative Machine Learning Bootcamp hosted by Google and Microsoft, with contributions and support from DevTown.
 
