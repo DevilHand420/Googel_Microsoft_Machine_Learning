@@ -1,12 +1,14 @@
 # Machine Learning Bootcamp Final Project
-## Collaborative Project by Google And Microsoft, with DevTown
+## Hosted by DevTown in Collaboration with Google and Microsoft
 
-Welcome to the Machine Learning Bootcamp Final Project repository! This project represents the culmination of our efforts during the collaborative Machine Learning Bootcamp hosted by Google and Microsoft, with contributions and support from DevTown.
+Welcome to the Machine Learning Bootcamp Final Project repository! This project represents the culmination of our efforts during the 7-day workshop hosted by DevTown, in collaboration with Google and Microsoft.
 
 ## Introduction
 In this project, we have developed a machine learning model to predict housing prices using the famous Boston Housing dataset. The project includes data preprocessing, model training, and evaluation. We utilized various Python libraries, including scikit-learn, pandas, and numpy, to accomplish this task.
 
-The goal of this project is to demonstrate our proficiency in machine learning techniques and showcase our ability to build, train, and evaluate predictive models.
+This workshop was made possible through the collaborative efforts of DevTown, Google, and Microsoft. It highlights the importance of shared knowledge and cross-industry collaboration in advancing machine learning and data science.
+
+The goal of this project is to demonstrate our proficiency in machine learning techniques and showcase our ability to build, train, and evaluate predictive models, thanks to the collaborative effort of these esteemed organizations.
 
 ## Code Explanation
 Here is an overview of the key components of the code:
