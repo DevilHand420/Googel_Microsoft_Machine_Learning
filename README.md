@@ -28,7 +28,6 @@ Here is an overview of the key components of the code:
 ## Collaborators
 This project was made possible through the collaborative efforts of participants in the Machine Learning Bootcamp organized by Google and Microsoft, with additional support and contributions from DevTown.
 
-- Dikshant
 - Shaurya Sinha
 
 ## Tech Stack
